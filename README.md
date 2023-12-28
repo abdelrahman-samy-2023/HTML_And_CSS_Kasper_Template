@@ -20,5 +20,5 @@ This repository contains my second website project, which I developed using only
 - HTML5
 - CSS3
 
-## TO EXPLORE THE WEBSITE : <>
+## TO EXPLORE THE WEBSITE : <https://abdelrahman-samy-2023.github.io/HTML_And_CSS_Kasper_Template/>
 
